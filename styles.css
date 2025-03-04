@@ -23,3 +23,7 @@ button{
     font-size: 150%;
     cursor: pointer;
 }
+button:focus{
+    color: yellow;
+    border: 1px solid yellow;
+}
