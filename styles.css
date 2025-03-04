@@ -46,3 +46,7 @@ nav li a{
     color: white;
     text-decoration: none;
 }
+nav li a:hover{
+    color: rgb(188, 125, 246);
+    text-decoration: underline;
+}
