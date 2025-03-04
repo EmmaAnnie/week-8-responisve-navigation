@@ -42,3 +42,7 @@ li{
 li:last-of-type{
     margin-right: 0;
 }
+nav li a{
+    color: white;
+    text-decoration: none;
+}
