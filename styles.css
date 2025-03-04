@@ -64,6 +64,7 @@ nav li a:hover{
         z-index: 100;
         background-color: black;
         flex-direction: column;
+        display: none;
     }
     nav li{
         display: block;
