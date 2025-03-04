@@ -22,6 +22,7 @@ button{
     color: white;
     font-size: 150%;
     cursor: pointer;
+    display: none;
 }
 button:focus{
     color: yellow;
