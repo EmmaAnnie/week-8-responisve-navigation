@@ -9,4 +9,6 @@ body{
 header{
     background-color: rgb(50, 22, 63);
     color: white;
+    position: relative;
+    display: flex;
 }
