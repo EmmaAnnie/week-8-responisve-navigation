@@ -56,4 +56,14 @@ nav li a:hover{
     button{
         display: block;
     }
+    nav{
+        position: absolute;
+        top: 100%;
+        left: 0;
+        width: 100%;
+        z-index: 100;
+        background-color: black;
+        border: 2px solid purple;
+        flex-direction: column;
+    }
 }
