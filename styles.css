@@ -37,4 +37,8 @@ nav{
 li{
     list-style-type: none;
     display: inline;
+    margin-right: 1.5rem;
+}
+li:last-of-type{
+    margin-right: 0;
 }
