@@ -27,3 +27,14 @@ button:focus{
     color: yellow;
     border: 1px solid yellow;
 }
+
+nav{
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+li{
+    list-style-type: none;
+    display: inline;
+}
