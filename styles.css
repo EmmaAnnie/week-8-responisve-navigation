@@ -66,6 +66,10 @@ nav li a:hover{
         flex-direction: column;
         display: none;
     }
+
+    nav.active{
+        display: block;
+    }
     nav li{
         display: block;
         text-align: center;
